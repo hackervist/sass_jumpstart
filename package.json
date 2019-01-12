@@ -1,0 +1,24 @@
+{
+  "name": "sass_jumpstart_tmp",
+  "version": "1.0.0",
+  "description": "sass quick start templt",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackervist/sass_jumpstart.git"
+  },
+  "author": "Pro",
+  "license": "ISC",
+"devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-sass": "^3.1.0",
+  "bugs": {
+    "url": "https://github.com/hackervist/sass_jumpstart/issues"
+  },
+  "homepage": "https://github.com/hackervist/sass_jumpstart#readme"
+}
